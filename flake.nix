@@ -27,6 +27,8 @@
             pkgs.xorg.libXxf86vm
             pkgs.cglm
             pkgs.reactphysics3d
+            pkgs.lazygit
+            pkgs.git
           ];
 
           shellHook = ''

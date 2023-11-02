@@ -1,6 +1,5 @@
-flake.lock
 ARKIVEX
 CMakeCache.txt
-MakeFile
+Makefile
 CMakeFiles/
 cmake_install.cmake
